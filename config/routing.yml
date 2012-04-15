@@ -1,0 +1,11 @@
+default_whois:
+  url:   /preveri
+  param: { module: sfWhois, action: index }
+
+show_whois:
+  url:   /whois-show
+  param: { module: sfWhois, action: show }
+  
+whois_domain_validity:
+  url:   /domain-validity-check
+  param: { module: sfWhois, action: checkValidity }

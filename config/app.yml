@@ -1,0 +1,5 @@
+all:
+  sf_whois_plugin:
+    default_domain_extensions: com|net|org|eu|si
+    valid_domain_extensions:   com|eu|org|net|cu|de|se|biz|ae|ag|at|au|be|br|ca|ch|cn|cz|de|fi|fm|fr|hu|ie|in|is|it|li|lt|lu|mx|nl|nu|nz|pl|pt|ru|sc|se|si|su|
+co.uk|us|ve|ws
